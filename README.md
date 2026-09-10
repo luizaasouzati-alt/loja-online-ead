@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Loja Online - Campanha de black friday
+=======
+# Loja Online - Campanha de natal
+>>>>>>> feature/natal
 
 
 ## Contato
